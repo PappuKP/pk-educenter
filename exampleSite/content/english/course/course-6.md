@@ -26,7 +26,7 @@ As viewing habits skewer increasingly towards online video, [certain types of vi
 
 * **THE EARLY HISTORY OF VLOGS**
 * **WHAT IS VLOGGING TODAY? TOP DAILY VLOGGERS**
-* TODAY’S VLOG PLATFORM COMPETITORS
+* **TODAY’S VLOG PLATFORM COMPETITORS**
 * **HOW VLOGGING HAS SHAPED CONTENT CONSUMPTION**
 
 ### How to Apply
