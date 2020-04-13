@@ -1,6 +1,6 @@
 ---
 title: Vlogging
-date: 2019-07-06T09:27:17.000+00:00
+date: 2020-04-13T02:30:17+00:00
 bg_image: images/backgrounds/page-title.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
