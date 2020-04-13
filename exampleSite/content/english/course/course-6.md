@@ -7,10 +7,10 @@ description: Vlogging (short for “video blogging”) is the daily practice of 
   arm’s length throughout their everyday activities.
 image: images/courses/course-6.jpg
 category: Photography
-teacher: Duis Rio
-duration: 06 Month
+teacher: Pappu Kumar
+duration: 01 Month
 weekly: 03 hours
-fee: 'From: $699'
+fee: 'From: $1'
 apply_url: "#"
 
 ---
